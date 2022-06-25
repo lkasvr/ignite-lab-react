@@ -27,7 +27,7 @@ export function Subscribe() {
 
   return (
     <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
-      <div className="bg-react-icon bg-no-repeat bg-top mt-4">
+      <div className="min-h-[575px] bg-react-icon bg-no-repeat bg-top mt-4">
         <div className="w-full max-w-[1100px] flex items-center justify-between mt-16 mx-auto">
           <div className="max-w-[640px]">
             <Logo />
@@ -69,7 +69,7 @@ export function Subscribe() {
           </div>
         </div>
 
-        <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+        <div className="min-h-screen min-w-[1216px] bg-code-mockup bg-no-repeat bg-top"></div>
       </div>
     </div>
   );

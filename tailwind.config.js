@@ -8,6 +8,7 @@ module.exports = {
       backgroundImage: {
         'blur': 'url(/src/assets/blur-background.png)',
         'react-icon': 'url(/src/assets/react-icon.svg)',
+        'code-mockup': 'url(/src/assets/code-mockup.png)',
       },
       fontFamily: {
         sans: 'Roboto, sans-serif',
