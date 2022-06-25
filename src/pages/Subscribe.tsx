@@ -33,10 +33,10 @@ export function Subscribe() {
             <Logo />
 
             <h1 className="mt-8 text-[2.5rem] leading-tight">
-              Construa uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React JS</strong>
+              Aprenda tudo sobre <strong className="text-red-600">vidraçaria e esquadrias</strong>, em alto nível com nossa <strong className="text-red-600">plataforma</strong>
             </h1>
             <p className="mt-4 text-gray-200 leading-relaxed">
-              Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado.
+              Com o uso da nossa plataforma você irá aprender com conforto e liberdade a aplicar as páticas mais utilizadas e requisitadas no mercado de vidraçaria e esquadrias.
             </p>
           </div>
 
@@ -61,7 +61,7 @@ export function Subscribe() {
               <button
                 type="submit"
                 disabled={loading}
-                className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 transition-colors disabled:opacity-50"
+                className="mt-4 bg-red-800 uppercase py-4 rounded font-bold text-sm hover:bg-red-900 transition-colors disabled:opacity-50"
               >
                 Garantir minha vaga
               </button>
